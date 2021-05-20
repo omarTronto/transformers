@@ -161,3 +161,11 @@ tags
 
 # .lock
 *.lock
+
+# My Models
+
+dbart_emails_12_6/
+distilbart-emails-12-3-4/
+emails/
+lightning_logs/
+
